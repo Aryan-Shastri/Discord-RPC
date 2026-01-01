@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 
 # Source Code (Excluded for Release-Only Repo)
+Archive.zip
 *.py
 *.spec
 requirements.txt
