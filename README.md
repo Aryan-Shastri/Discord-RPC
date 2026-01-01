@@ -32,20 +32,3 @@ A modern, easy-to-use GUI application to set custom Rich Presence statuses on Di
     - (Optional) Use Image Keys (upload images in Developer Portal -> Art Assets).
 4.  **Connect**: Click **Connect** and **Update Presence**.
 
-## Building from Source
-
-If you prefer to run from python code:
-
-1.  Install Python 3.
-2.  Install dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-3.  Run the app:
-    ```bash
-    python discord_rpc_gui.py
-    ```
-4.  Build executable:
-    ```bash
-    python build.py
-    ```

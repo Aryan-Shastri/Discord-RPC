@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Source Code (Excluded for Release-Only Repo)
+*.py
+*.spec
+requirements.txt
+
 # Virtual Environment
 venv/
 env/
@@ -11,7 +16,6 @@ env/
 # Distribution / Build
 build/
 dist/
-*.spec
 *.exe
 
 # User Settings
